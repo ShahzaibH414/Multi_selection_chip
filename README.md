@@ -8,6 +8,9 @@ This Flutter project demonstrates the use of multi-select chips. It showcases tw
 - **View Mode**: Displays a set of chips that are pre-selected from the list.
 - **Selection Mode**: Allows users to dynamically select multiple chips from a list of options.
 
+
+![Screenshot_20240819_124453](https://github.com/user-attachments/assets/e87bed26-ecd3-4666-8c82-c24e38364ada)
+
 ## Getting Started
 
 ### Prerequisites
