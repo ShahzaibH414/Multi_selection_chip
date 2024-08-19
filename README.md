@@ -19,5 +19,5 @@ This Flutter project demonstrates the use of multi-select chips. It showcases tw
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/flutter-multi-chips-demo.git
+git clone https://github.com/ShahzaibH414/Multi_selection_chip.git
 cd flutter-multi-chips-demo
